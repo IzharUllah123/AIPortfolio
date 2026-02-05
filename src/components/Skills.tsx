@@ -47,7 +47,7 @@ const Skills = () => {
               initial={{ opacity: 0, y: 20 }}
               animate={isInView ? { opacity: 1, y: 0 } : {}}
               transition={{ delay: 0.3 }}
-              className="text-3xl md:text-4xl font-bold"
+              className="text-3xl md:text-7xl font-bold text-yellow"
             >
               Tools & Technologies
             </motion.h2>
