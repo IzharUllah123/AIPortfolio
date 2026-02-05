@@ -48,7 +48,7 @@ const Hero = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-2xl md:text-4xl font-semibold mb-6 text-gradient"
           >
-            Web 
+            Web Developer
           </motion.h2>
 
           <motion.p
@@ -94,7 +94,7 @@ const Hero = () => {
           >
             <motion.a
               href="#projects"
-              className="px-8 py-4 bg-red text-primary-foreground rounded-xl font-medium glow-primary"
+              className="px-8 py-4 bg-black text-white rounded-xl font-medium glow-primary"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
